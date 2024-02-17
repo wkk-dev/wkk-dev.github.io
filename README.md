@@ -26,3 +26,4 @@ MarkdownBlogTemplate supports **abundant extra functions of Markdown**:
 See here：[Installation —— MarkdownBlogTemplate Documentation](./static/English/installation.md)
 # wkk-dev.github.io
 # wkk-dev.github.io
+# wkk-dev.github.io
