@@ -1,7 +1,5 @@
-# Documentation for Markdown-Blog-Template
-
-Build your own online knowledge base with markdown!
-
-GitHub: [https:\/\/github.com/BHznJNs/markdown-blog-template](https://github.com/BHznJNs/markdown-blog-template)
+# 在线Markdown文档库
+My Github：[wkk-dev](https://github.com/wkk-dev)
+Email me：[WKK Mail](mailto:wkk@wkk-dev.top)
 
 - - -
